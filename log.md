@@ -1,30 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## my project in a few words: 
+I have started to build a blog with the laravel framework two months ago to increase my php skills, but in the last few weeks I dind't really continue coding anymore so a friend of mine told me to join this challenge as a motivation and continue the project! So here is my progress:
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: January 25, 2017
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: I built the tag model for the app and created the migration.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Learning about relational databases is kind of confusing if you do it for the first time, but it is fun if Isee its finally working and the things play well together.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** coming soon..
