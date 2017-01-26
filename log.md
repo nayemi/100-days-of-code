@@ -10,3 +10,11 @@ I have started to build a blog with the laravel framework two months ago to incr
 **Thoughts:** Learning about relational databases is kind of confusing if you do it for the first time, but it is fun if Isee its finally working and the things play well together.
 
 **Link to work:** coming soon..
+
+### Day 1: January 26, 2017
+
+**Today's Progress**: Starting the "CRUD" for the tags.
+
+**Thoughts:** Yay now I can create Tags store them in the database and list them, I'm looking forward to 'connect' them with the posts tomorrow.
+
+**Link to work:** coming soon..
